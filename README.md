@@ -21,6 +21,11 @@ In this repository, You will find notes and resources about Machine learning, De
 - <a href="https://github.com/Dev-Gaju/awesome-bangla">Bangla on ML </a>
 
 
+### Dataset
+- <a href="https://datasetsearch.research.google.com/">Google dataset search</a>
+- <a href="https://index.quantumstat.com/"></a>
+<a href="">NLP Database</a>
+<a href=""></a>
 
 
 
