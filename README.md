@@ -20,12 +20,22 @@ In this repository, You will find notes and resources about Machine learning, De
 -  <a href="https://github.com/Dev-Gaju/Tensorflow-with-Deep-Learning">Basics of Tensorflow</a>
 - <a href="https://github.com/Dev-Gaju/awesome-bangla">Bangla on ML </a>
 
+### NLP
+- <a href="https://vinija.ai/nlp/">Vinija's Notes • CS224n: Natural Language Processing with Deep Learning</a>
+
+### LLM 
+- <a href="https://www.youtube.com/watch?v=zjkBMFhNj_g&ab_channel=AndrejKarpathy">[1hr Talk] Intro to Large Language Models</a>
+- <a href="https://github.com/Dev-Gaju/-Information-Retrieval-using-Langchain-">-Information-Retrieval-using-Langchain-</a>
+- <a href="https://github.com/ashishpatel26/LLM-Finetuning">LLM-Finetuning</a>
+
+
+
 
 ### Dataset
 - <a href="https://datasetsearch.research.google.com/">Google dataset search</a>
 - <a href="https://index.quantumstat.com/"></a>
 <a href="">NLP Database</a>
-<a href=""></a>
+
 
 
 
