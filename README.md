@@ -25,6 +25,7 @@ In this repository, You will find notes and resources about Machine learning, De
 
 ### LLM 
 - <a href="https://www.youtube.com/watch?v=zjkBMFhNj_g&ab_channel=AndrejKarpathy">[1hr Talk] Intro to Large Language Models</a>
+- <a href="https://www.youtube.com/watch?v=zduSFxRajkE">Let's build the GPT Tokenizer</a>
 - <a href="https://github.com/Dev-Gaju/-Information-Retrieval-using-Langchain-">-Information-Retrieval-using-Langchain-</a>
 - <a href="https://github.com/ashishpatel26/LLM-Finetuning">LLM-Finetuning</a>
 
