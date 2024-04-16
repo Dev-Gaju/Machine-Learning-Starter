@@ -29,7 +29,8 @@ In this repository, You will find notes and resources about Machine learning, De
 - <a href="https://github.com/Dev-Gaju/-Information-Retrieval-using-Langchain-">-Information-Retrieval-using-Langchain-</a>
 - <a href="https://github.com/ashishpatel26/LLM-Finetuning">LLM-Finetuning</a>
 
-
+### LINUX
+- <a href="https://github.com/Dev-Gaju/All-about-Linux-"> Learn Linux Command</a>
 
 
 ### Dataset
