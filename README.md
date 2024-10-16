@@ -23,6 +23,10 @@ In this repository, You will find notes and resources about Machine learning, De
 ### NLP
 - <a href="https://vinija.ai/nlp/">Vinija's Notes • CS224n: Natural Language Processing with Deep Learning</a>
 
+### Deep Learning
+- <a href="https://github.com/labmlai/annotated_deep_learning_paper_implementations"> annotated_deep_learning_paper_implementations </a>
+
+
 ### LLM 
 - <a href="https://www.youtube.com/watch?v=zjkBMFhNj_g&ab_channel=AndrejKarpathy">[1hr Talk] Intro to Large Language Models</a>
 - <a href="https://www.youtube.com/watch?v=zduSFxRajkE">Let's build the GPT Tokenizer</a>
