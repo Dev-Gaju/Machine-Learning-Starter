@@ -7,7 +7,7 @@ In this repository, You will find notes and resources about Machine learning, De
 -  <a href="https://github.com/Asabeneh/30-Days-Of-Python">30 Days Of Python</a>
 -  <a href="https://www.udemy.com/course/machinelearning/">Course</a>,    <a href="https://github.com/Dev-Gaju/A-Z-Machine-learnig/tree/master">Resource of Machine Learning A-Z™: AI, Python & R [Udemy]</a>
 -  <a href="https://github.com/eriklindernoren/ML-From-Scratch">Machine Learning From Scratch</a>
-- <a href="https://github.com/Dev-Gaju/NNFS-book-with-Implementation">Neural Networks from Scratch</a>
+- <a href="[https://github.com/Dev-Gaju/NNFS-book-with-Implementation](https://github.com/Dev-Gaju/Neural-Network-from-Scratch)"><b>Neural Networks from Scratch</b></a>
 - <a href="https://github.com/Dev-Gaju/machine_learning_examples"> Machine Learning Examples</a>
 -  <a href="https://github.com/Dev-Gaju/Grokking-Machine-Learning">Grokking-Machine-Learning [Book Implementation]</a>
 -  <a href="https://github.com/Dev-Gaju/deeplearning-models">Deep Learning Models</a>
