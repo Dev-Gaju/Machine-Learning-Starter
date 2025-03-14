@@ -4,7 +4,7 @@
 
 In this repository, You will find notes and resources about Machine learning, Deep learning Computer Vision & other stuff.
 
-- <a href="https://github.com/Dev-Gaju/NNFS-book-with-Implementation](https://github.com/Dev-Gaju/Neural-Network-from-Scratch)"><b>Neural Networks from Scratch</b></a>
+- <a href="https://github.com/Dev-Gaju/NNFS-book-with-Implementation"><b>Neural Networks from Scratch</b></a>
 -  <a href="https://github.com/Asabeneh/30-Days-Of-Python">30 Days Of Python</a>
 -  <a href="https://www.udemy.com/course/machinelearning/">Course</a>,    <a href="https://github.com/Dev-Gaju/A-Z-Machine-learnig/tree/master">Resource of Machine Learning A-Z™: AI, Python & R [Udemy]</a>
 -  <a href="https://github.com/eriklindernoren/ML-From-Scratch">Machine Learning From Scratch</a>
